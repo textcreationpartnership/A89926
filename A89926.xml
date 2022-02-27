@@ -1,0 +1,934 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from the New Exchange, or The commonvvealth of ladies, drawn to the life, in their severall characters and concernments.</title>
+            <author>Neville, Henry, 1620-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89926</idno>
+            <idno type="STC">Wing N510</idno>
+            <idno type="STC">Thomason E590_10</idno>
+            <idno type="STC">ESTC R203016</idno>
+            <idno type="EEBO-CITATION">99863120</idno>
+            <idno type="PROQUEST">99863120</idno>
+            <idno type="VID">115302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115302)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E590[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from the New Exchange, or The commonvvealth of ladies, drawn to the life, in their severall characters and concernments.</title>
+                  <author>Neville, Henry, 1620-1694.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, of women without grace, 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Nevile.</note>
+                  <note>Variants: (1) mispaginated [2], 2 [i.e. 21], [1] p. (p. 21 misnumbered 2); (2) paginated [2], 21, [1]p. (i.e. p. 22 not numbered).</note>
+                  <note>Annotations on Thomason copy: "Jan: 30th 1649", the 50 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  England --  London --  Social conditions --  Early works to 1800.</term>
+               <term>London (England) --  Social life and customs --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115302:1" rendition="simple:additions"/>
+            <p>Newes from the New
+EXCHANGE,
+OR THE
+COMMONVVEALTH OF
+LADIES,
+Drawn to the Life, in their
+ſeverall Characters and
+Concernments.</p>
+            <bibl>Martialis. <hi>lib. 4. Epig.</hi> 71.</bibl>
+            <q>
+               <l>Quaero diu, totam greſsus agitando per urbem,</l>
+               <l>Si qua puella negat, nulla puella negat.</l>
+               <l>Tamquàm fas non ſit, tamquam ſit turpe negare;</l>
+               <l>Tanquàm non liceat, nulla puella negat.</l>
+               <l>Caſta igitur nulla eſt? caſtae ſunt mille. Quid ergo</l>
+               <l>Caſta facit? non dat; non tamen illa negat.</l>
+            </q>
+            <bibl>Ovidius.</bibl>
+            <q>
+               <l>—Casta eſt quam nemo rogavit.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the year, of Women without
+Grace, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="characters">
+            <pb facs="tcp:115302:2"/>
+            <pb n="1" facs="tcp:115302:2"/>
+            <head>Newes from the New-EXCHANGE,
+or the
+Commonwealth of Ladies,
+drawn to the Life, in their
+ſeverall Characters and
+Concernments.</head>
+            <p>THere was a time in <hi>England,</hi> when
+men <hi>wore the Breeches,</hi> and debar'd
+women of their <hi>Liberty;</hi> which
+brought many grievances and op<g ref="char:EOLhyphen"/>preſſions
+upon the <hi>weaker veſſels;</hi> for,
+they were conſtrained to converſe only with their
+<hi>homes and cloſets,</hi> and now and then with the <hi>Gen<g ref="char:EOLhyphen"/>tleman-uſher,</hi>
+or the <hi>Foot-man</hi> (when th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y could
+catch him) for variety: So that in th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe dayes,
+there was no ſuch thing as the SERVANT,
+the FRIEND, or the INTIMATE in
+ordinary; nor durſt they be acquainted with the
+<hi>mode</hi> of <hi>Drinke, Dice,</hi> and <hi>Tobacco;</hi> nor <hi>role</hi> and
+convert their ſmoks into <hi>Colanders,</hi> to ſtrain healths
+<pb n="2" facs="tcp:115302:3"/>
+of <hi>Sack</hi> into <hi>Beer-glaſſes,</hi> and take them off aſtride
+upon mens ſhoulders. In conſideration whereof,
+and divers other inconveniences, by the tyranny
+of men, the <hi>Ladies Rampant</hi> of the times, in their
+laſt <hi>Parliament,</hi> knowing themſelves to be a part
+of the <hi>free people</hi> of this Nation, unanimouſly re<g ref="char:EOLhyphen"/>ſolved
+to aſſert their own <hi>freedoms;</hi> and caſting
+off the intolerable yoke of their <hi>Lords</hi> and <hi>Huſ<g ref="char:EOLhyphen"/>bands,</hi>
+have voted themſelves the <hi>Supreme Au<g ref="char:EOLhyphen"/>thority</hi>
+both at home and abroad, and ſetled them<g ref="char:EOLhyphen"/>ſelves
+in the poſture of a <hi>Free-State,</hi> as may appeare
+by their <hi>Practices.</hi>
+            </p>
+            <p>In the firſt place, for the well ordering of their
+<hi>Militia,</hi> they have liſted themſelves under the
+conduct of the Right Honorable the Counteſſe of
+<hi>Kent,</hi> and the old Counteſſe of <hi>Exceter;</hi> who
+ought to lead the <hi>Van,</hi> being experienced Souldi<g ref="char:EOLhyphen"/>ers,
+that have paſſed through all Offices in <hi>Venus</hi>
+Warrs, from a <hi>Corporall</hi> to a <hi>Colonell.</hi> Theſe two
+are the only pillars of Nobility and Hoſpitality;
+who, to breed up the <hi>young Fry</hi> in the Miſteries of
+the <hi>Sexe,</hi> have erected an <hi>Academy,</hi> which is o<g ref="char:EOLhyphen"/>pened
+every <hi>Sunday</hi> night at the Counteſſe of <hi>Kent's</hi>
+and every <hi>Thurſday</hi> at my Lady of <hi>Exceter</hi>'s. There
+<hi>Suppers</hi> are reckoned moſt convenient, becauſe the
+<hi>Bed</hi> follows, and it is judged the beſt way of
+diſgeſtion after the <hi>Lectures,</hi> they never being up<g ref="char:EOLhyphen"/>on
+any other Subject, but WHO with WHO,
+<hi>Miſtreſſes</hi> and <hi>Servants,</hi> and the <hi>Act of well-doing,</hi>
+which muſt needs breake the <hi>Academy</hi> of <hi>well ſpea<g ref="char:EOLhyphen"/>king,</hi>
+               <pb n="3" facs="tcp:115302:3"/>
+and ſoon make the <hi>Italian</hi> Knight loſe all
+his Cuſtome, for going the wrong way to worke
+with our <hi>Engliſh</hi> Ladies.</p>
+            <p>And if he dare diſpute the matter, wee will re<g ref="char:EOLhyphen"/>fer
+it to my Lady <hi>Carliſle.</hi> This is a Lady indeed,
+that ſeven years ſince took ſaile with <hi>Preſbytery,</hi>
+being charged in the <hi>Fore-deck</hi> by Maſter <hi>Hollis,</hi> in
+the <hi>Poop</hi> by Maſter <hi>Pym,</hi> whilſt ſhe clapt my Lord
+of <hi>Holland</hi> under hatches. And this was a lucky
+<hi>Supply</hi> at that time, becauſe <hi>Toby Matthewes</hi> and
+<hi>Wat. Mountague</hi> were both <hi>fled for Religion.</hi>
+About 3 years ſince, being weary with that <hi>facti<g ref="char:EOLhyphen"/>on,</hi>
+ſhe revived a correſpondence upon the <hi>Royall
+accompt;</hi> among the reſt with divers <hi>foreine Am<g ref="char:EOLhyphen"/>baſſadors;</hi>
+eſpecially <hi>Monſ. Believerey,</hi> till ſhe
+was put in the <hi>Tower,</hi> where ſhe now pines away
+for want of <hi>freſh-Cod,</hi> and knoweth not which way
+to lead her <hi>Nags</hi> to water, ſince the <hi>State</hi> hath cut
+off all her <hi>pipes</hi> of intelligence.</p>
+            <p>After her comes the old Lady <hi>Peterburgh,</hi> who
+would faine be yong. A <hi>Preſbyterian</hi> Lady too,
+that caſts a fad looke with her eies for the downfall
+of her <hi>Faction,</hi> and ſings the <hi>lamentation of a ſinner</hi>
+for the loſſe of Mr. <hi>Hollis,</hi> but above all for the Irre<g ref="char:EOLhyphen"/>parable
+loſſe ſhe had in <hi>Tom. Gell,</hi> when my Lady
+<hi>Rutland</hi> got him from her.</p>
+            <p>'Twere pitty my old Lady <hi>Devonſhire</hi> and theſe
+two ſhould be parted, for, the <hi>Preſbyterie</hi> was ſet<g ref="char:EOLhyphen"/>led
+firſt in her houſe by the <hi>Scots Commiſſioners;</hi>
+where my L. <hi>Louden, Lauderdale,</hi> and <hi>Dumferling,</hi>
+               <pb n="4" facs="tcp:115302:4"/>
+were clapt in her <hi>hole of Repentante,</hi> to forward the
+work of <hi>Reformation.</hi>
+            </p>
+            <p>And now we talk of <hi>Reformation,</hi> God help my
+Lady <hi>Salisbury,</hi> whoſe Sinnes are as big as her Bo<g ref="char:EOLhyphen"/>dy,
+and whoſe faults are better known at home
+than, abroad, ſince the death of the old Duke of
+<hi>Buckingham</hi> and my Lord of <hi>Holland.</hi> A very
+charitable Mother ſhe is to all her Children; but
+eſpecially to her daughter my Lady <hi>Sands,</hi> having
+helpt her to a <hi>Touch,</hi> with her Son in Law my Lord
+<hi>Liſle,</hi> though my Lord of <hi>Salisbury</hi> himſelf, like a
+croſſe Father,<note n="*" place="margin">My La<g ref="char:EOLhyphen"/>die <hi>Sands</hi> was war<g ref="char:EOLhyphen"/>ming her Brother <hi>Liſles</hi> drawers by the fire Side.</note> came in and took her airing his
+<hi>Drawers.</hi> This Lady <hi>Sands</hi> continues her <hi>Clack</hi>
+going ever ſince, to draw <hi>griſts</hi> to the <hi>Mill,</hi> and
+is at this time one of the greateſt <hi>Courſers</hi> upon the
+<hi>New Exchange;</hi> She out-drinks a <hi>Dutch man,</hi> out<g ref="char:EOLhyphen"/>vies
+a <hi>Courteſan,</hi> and is good at all <hi>Games,</hi> but loves
+none like <hi>In and In,</hi> and ſometimes ſhe is for <hi>Poſ<g ref="char:EOLhyphen"/>ſage.</hi>
+In league with her are all the <hi>Hat-and-fea<g ref="char:EOLhyphen"/>ther-Gallants,</hi>
+the <hi>feather</hi> being the proper <hi>Hie<g ref="char:EOLhyphen"/>roglyphick</hi>
+of her Condition, and the Badge of
+her <hi>faction.</hi>
+            </p>
+            <p>As for her good Siſter, the yong Lady <hi>Devon<g ref="char:EOLhyphen"/>ſhire,</hi>
+She hath been a very ſad woman ever ſince
+the death of my <hi>Lord Iohn;</hi> but ſince that, She
+hath been rid of her <hi>Qualm</hi> by <hi>Tom Killegrew,</hi> who
+is now gon Ambaſſador from <hi>Ierſey</hi> into <hi>Italy,</hi> on
+purpoſe to fetch her a <hi>Muſk-cod</hi> to perfect the
+Cure.</p>
+            <p>This Family is both large and godly, and there<g ref="char:EOLhyphen"/>fore
+<pb n="5" facs="tcp:115302:4"/>
+we muſt not forget my Lady <hi>Cranborn;</hi> who
+lives in a <hi>Scotiſh miſt</hi> betwixt light and darkneſſe
+ſo that groping often for Truth, She now and then
+layes hold upon the <hi>Preacher,</hi> and puts him beſide
+the <hi>Text,</hi> in an error. She playes above-board with
+Mr. <hi>Sackvile,</hi> under-board with Mr. <hi>Sterry,</hi> and
+ſeverall other <hi>Captains</hi> that uſually preach <hi>before
+her</hi> and the <hi>Councell of State.</hi> She hath preferred
+one <hi>Lee</hi> Lecturer at <hi>St. Martin's,</hi> to read <hi>lectures</hi> on
+Sunday nights to the whole <hi>Family,</hi> concerning
+<hi>due Benevolence;</hi> which gave occaſion to Miſtris
+<hi>Peele</hi> (an <hi>Intimate</hi> of theirs) to commend his do<g ref="char:EOLhyphen"/>ctrine
+above all others.</p>
+            <p>And now, nor forgetting an over-thwart neigh<g ref="char:EOLhyphen"/>bor
+of theirs we muſt think of my Lady <hi>Forſter;</hi> an
+old <hi>Miſtreſſe</hi> and a yong <hi>Saint;</hi> one whoſe propor<g ref="char:EOLhyphen"/>tion
+puts us in mind of her <hi>Excellencies,</hi> and he
+that meanes to board her, muſt put off his doublet
+and ſwim, it being of the ſame ſize with a <hi>Fiſh-Pond:</hi>
+yet it is ten to one if he ſcape ſinking, ſince
+ſhe is ſomewhat of kin to <hi>Goodwin Sands,</hi> having
+ſwallowed up many <hi>Families,</hi> many <hi>Blew Garters,
+Georges, Earls,</hi> and <hi>Baronies</hi> innumerable. Among
+them, as the lateſt (though of a long continuance)
+is the Lord <hi>Willoughby</hi> of <hi>Parham;</hi> who hath now
+taken a journey to the <hi>Barbado's</hi> and means to pipe
+her one way ſince he cannot another; In Order
+whereunto he hath provided her a whole plantati<g ref="char:EOLhyphen"/>on
+of Tobacco, it being her proper Element; ſo that
+ſince my Lord finds <hi>Smoak,</hi> Sir <hi>Humphry</hi> may in
+<pb n="6" facs="tcp:115302:5"/>
+time have <hi>Bacon.</hi> I would have this Lady well pre<g ref="char:EOLhyphen"/>ferr'd
+in the <hi>Commonwealth,</hi> ſhe being now a great
+<hi>Retailer of Courteſies.</hi>
+            </p>
+            <p>And truly her Daughter my Lady <hi>Prat</hi> (for
+ought I ſee) is reſolved to keep up the <hi>Trade,</hi> ha<g ref="char:EOLhyphen"/>ving
+an Husband for the purpoſe. This is that
+doughty Knight Sir <hi>George Prat,</hi> once celebrated
+in <hi>Comedy,</hi> and pawned upon the <hi>Stage</hi> (as well as
+at the <hi>Tavern)</hi> in a <hi>Ioynt-Stool</hi> for a Reckoning.
+Hee, Sir <hi>Samuel Luke, Ieffery,</hi> and little <hi>Trott,</hi> may
+help to make up the Nine <hi>Worthies</hi> amoug the <hi>Pig<g ref="char:EOLhyphen"/>mies,</hi>
+and might paſſe for rare Champions in <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi>
+to erect a new <hi>Common wealtb</hi> among the
+<hi>Monkies.</hi> Indeed, take Sir <hi>George,</hi> hornes and all,
+and he is a very formidable <hi>Monster;</hi> ſo that 'tis
+no wonder if his <hi>Lady</hi> be reprehended by her <hi>Mo<g ref="char:EOLhyphen"/>ther,</hi>
+for being <hi>Bull'd by an Urchin:</hi> She is a great
+<hi>wit,</hi> and playes with an old <hi>Sophiſter</hi> (Dr. <hi>Smell<g ref="char:EOLhyphen"/>ſmock,
+alias</hi> Mr. <hi>Osbaston)</hi> who jerks her both be<g ref="char:EOLhyphen"/>hind,
+and before; therefore Mr. <hi>Lenthall,</hi> though
+he have playd <hi>Truant</hi> a great while, may the rather
+ſcape a whipping.</p>
+            <p>Come, take your Turn Mrs. <hi>Gamlyn;</hi> for, you
+have had many a one by that excellent Squire of the
+Body yong <hi>Lenthall,</hi> who hath the art to love if the
+Women love him. They ſay, <hi>Northamptoc</hi> makes
+love one hour to you, and he beats the brains of it
+out in a quarter. This Gentleman broaches <hi>maxims</hi>
+very dangerous to the Common-wealth of Wo<g ref="char:EOLhyphen"/>men,
+<hi>viz. That there is no woman honeſt. That wo<g ref="char:EOLhyphen"/>men
+<pb n="7" facs="tcp:115302:5"/>
+would become unneceſſary in the world, if that
+damnable principle of honeſty ſhould be profeſſed. That
+originally there was no ſuch quality as honeſty, only it
+was inſinuated by the perſwaſions of the firſt mother, to
+keep women from being debauched in their nurſes arms.</hi>
+All which hath been applauded, and ſeal'd to, by the
+ſame <hi>Gentleman,</hi> over and over.</p>
+            <p>Now, as a brave<note n="*" place="margin">Suppo<g ref="char:EOLhyphen"/>ſed a Het<g ref="char:EOLhyphen"/>maphro<g ref="char:EOLhyphen"/>dite.</note> 
+               <hi>Woman-man-of-mettle,</hi> heigh
+for my Lady <hi>Hungerford.</hi> Since Sir <hi>Edward</hi> is in
+Heaven, the fitteſt <hi>mate</hi> for her upon Earth,
+muſt needs be <hi>Annis-water Robbin,</hi> For they may
+fit one another by turns, and be beholding to no bo<g ref="char:EOLhyphen"/>dy.
+This <hi>Lady</hi> over-rid and excarnated, no leſſe
+than three of her women in her husbands life-time;
+and hath left no part of foure <hi>Gentlemen-uſhers</hi> vi<g ref="char:EOLhyphen"/>ſible
+in the world, but their <hi>periwigs;</hi> but the fifth
+ſcapes yet, and may perhaps for a twelve-month.</p>
+            <p>Room next for my Lady <hi>Kingsmell;</hi> who having
+been lately in <hi>France,</hi> hath brought over ſome <hi>I<g ref="char:EOLhyphen"/>talian</hi>
+tricks with her. The only wit in that houſe
+is <hi>new lechery,</hi> and her Daughter is <hi>voſtre Serviteur.</hi>
+The Mother ſhould have been married to my Lord
+of <hi>Norwich,</hi> at his coming out of priſon, but that
+of late he is become as dry as his jeſts, and the talke
+of the town diverted the humor.</p>
+            <p>But my Lady <hi>Rutland</hi> (God wot) is a more re<g ref="char:EOLhyphen"/>ſolute
+Lover; for, now that her Lord is out of
+Town, nothing can ſtave her off from <hi>Tom. Gell.</hi>
+This fellow the world ſuſpected to be Eunuch to
+<pb n="8" facs="tcp:115302:6"/>
+my Lord of <hi>Newcaſtle;</hi> but now ſhe commends him
+for the ſweteſt man in the world though of late
+ſhe hath a great ſtroke too with <hi>Harry Martyn.</hi>
+            </p>
+            <p>And now we talk of a <hi>ſtroak,</hi> I can tell you of a
+notable <hi>Striker</hi> one Mrs. <hi>Luſon,</hi> who hath blowne
+up and broke ſo many <hi>French, Dutch,</hi> and <hi>Spaniſh</hi>
+Merchants, that none of late durſt deal with her but
+<hi>Hugh Peters;</hi> who (I hear) hath pawned halfe the
+<hi>fleet</hi> at <hi>Milford</hi>-haven to provide her a <hi>new yeares
+gift;</hi> and this in imitation of his Maſters at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi>
+who ever put the Charges of their <hi>Leche<g ref="char:EOLhyphen"/>ry</hi>
+upon the accompts of the <hi>Publique.</hi>
+            </p>
+            <p>This policy of <hi>Hugh Peters,</hi> puts us in mind of
+godly <hi>Gravener,</hi> he that is <hi>Commiſſary</hi> to my Lady
+<hi>Fairfax;</hi> who hath pawned his <hi>Commiſſion</hi> for a<g ref="char:EOLhyphen"/>nother
+couple of <hi>Flanders</hi> horſes, to make ſure of
+Miſtris <hi>Luſon:</hi> And ſhe I think hath paid him pret<g ref="char:EOLhyphen"/>ty
+well; for the poor <hi>Gent.</hi> hath ſpit himſelfe into
+a <hi>Night cap,</hi> and the next Remove may be into a
+<hi>Coffin.</hi>
+            </p>
+            <p>If ever the <hi>new Common weal</hi> be routed, it muſt
+be by this <hi>Lady;</hi> for, put a little <hi>Gunpowder</hi> to her
+<hi>Mercury,</hi> and you may ſoon blow up my Lord
+<hi>Bradſhaw.</hi> He (they ſay) hath audited her Phiſicke
+<hi>Bill,</hi> and the <hi>Councell</hi> of <hi>State</hi> finds many faults in it
+As <hi>Inprimis,</hi> one purge for a <hi>clap</hi> ſhe had from Sir
+<hi>Harry Mildmay,</hi> which was much invenom'd by
+one he caught the morning before from <hi>Beſſe</hi> the
+<hi>Begger wench.</hi>
+            </p>
+            <p>
+               <hi>Item</hi> a Plaiſter for the <hi>ſwelling</hi> in her <hi>Groin,</hi> that
+<pb n="9" facs="tcp:115302:6"/>
+Mr. <hi>Marten</hi> gave her from a <hi>Shanker</hi> of his, which
+he caught from the <hi>Wench</hi> he ſtole from his Bro<g ref="char:EOLhyphen"/>ther-Member
+Sir <hi>Roger North.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> an <hi>Aſtringent</hi> for a <hi>Gonorrhaea,</hi> given her by
+Mr. <hi>Scot,</hi> which hath been entailed upon him and
+his Family, ever ſince he ſtrain'd at the <hi>Brewers</hi>
+daughter behind the <hi>Ale-fat.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> for a <hi>Pimple,</hi> which my Lord of <hi>Denbigh</hi>
+entailed on the Top of her <hi>Belly</hi> from the Tip of his
+<hi>Noſe.</hi> The <hi>Pothecary</hi> pleaded this cure was extra<g ref="char:EOLhyphen"/>ordinary,
+becauſe the <hi>Rubyes</hi> in my <hi>Lords</hi> noſe,
+might have cauſed a <hi>Carbuncle</hi> in her <hi>Cabinet,</hi> had it
+not been prevented (according to my <hi>Lord's</hi> owne
+direction) with an <hi>emollient Clyster</hi> over night, a
+Doſe of <hi>Pills</hi> in the morning, and an <hi>electuary</hi> from
+the ſame <hi>Lord</hi> the night following.</p>
+            <p>
+               <hi>Item</hi> for fluxing, fuming, ſoking, and Tubbing
+of <hi>Heveningham,</hi> a worthy <hi>Member;</hi> yet all will do
+no good; For, this <hi>Lady</hi> and he have been ſo long
+of the <hi>ſame humor,</hi> that he cannot be cured of a
+<hi>Rhume,</hi> that hangs on both ſides his mouth, ſo that
+ere long he may be <hi>Chapfall'n.</hi> This <hi>Malady</hi> hath
+been much exaſperated by an ill <hi>prepared flux,</hi> which
+hath left him more of <hi>Mercury</hi> than <hi>Venus</hi> in his
+Body. Ask my Lady <hi>Lake</hi> elſe, who did what wo<g ref="char:EOLhyphen"/>man
+could for him, plyed him with <hi>Cordials</hi> and
+warm <hi>Plaiſters:</hi> but <hi>broke his head</hi> when ſhe ſaid,
+<hi>She wondred hir Cozen</hi> Heveningham <hi>would have to
+do with ſo rotten a woman.</hi> As ſhe wounds ſome, ſo
+ſhe <hi>ſhaves</hi> others; for ſhe has made Mr. <hi>Love</hi> a
+<pb n="10" facs="tcp:115302:7"/>
+wofull Example, who never wore any beard ſince
+her firſt acquaintance.</p>
+            <p>Oh, let us not now forget Miſtris <hi>Duns,</hi> a Lady
+every jot as <hi>Independent</hi> as the former, ſhe hath
+payed Tribute to all the Deputies of <hi>Ireland,</hi> and
+will not now forbear her Coſen <hi>Cromwell.</hi> Shee
+keeps mighty Intelligence too with his wife, and
+ſhe with <hi>Hugh Peters,</hi> and <hi>Peters</hi> with Miſtris <hi>Ire<g ref="char:EOLhyphen"/>ton,</hi>
+ſhe with <hi>Bradſhaw,</hi> he with Madam <hi>Caſtlehaven,</hi>
+as <hi>Cromwell</hi> with Mrs. <hi>Lambert.</hi>
+            </p>
+            <p>
+               <hi>Now enter my Lady</hi> Craven, <hi>at a conference
+over her Cups.</hi> Fie ſiſter fie; never a Beer-glaſſe of Sack to
+Sir <hi>William Sidley's</hi> health? yes, my Lady <hi>Craven,</hi> here's
+one, fill a Brimmer, to that part of my Siſter <hi>Craven</hi> which
+Sir <hi>William</hi> loves beſt. Tis well fill'd, and fairely drunke.
+Now to do you right, my Lady <hi>Mary,</hi> here is to you; to the
+finiſhing of Sir <hi>Williams</hi> deſires, let it be how, where, and
+when he pleaſes. Come, my Lady <hi>Mary Howard,</hi> take
+courage; though thy fortune be but ſmall, yet having
+a good ſtroke, thou ſhalt drinke <hi>Dormer</hi> into Matri<g ref="char:EOLhyphen"/>mony.</p>
+            <p>Tis the wonder of the world, Why Sir <hi>Kenelm
+Digby,</hi> ſhould be ſo mad for my Lady <hi>Middleſex,</hi>
+ſince he boarded her and the Gallies at <hi>Scanderoon</hi>
+much about the ſame time, and hath rid at Anchor
+ever ſince. Tis a very hard matter to know whe<g ref="char:EOLhyphen"/>ther
+ſhe be, a <hi>Lady</hi> or <hi>Leviathan.</hi> Sure, none but
+<hi>Goliahs</hi> weapon can fit her <hi>Scabbard,</hi> nor can any
+hand but his with the <hi>ſix fingers</hi> ſufficiently <hi>ſeele</hi> her;
+<pb n="11" facs="tcp:115302:7"/>
+and he that will pleaſe her (which ſhe abundant<g ref="char:EOLhyphen"/>ly
+loves) muſt convert a <hi>Weavers beam</hi> into a <hi>dildo.</hi>
+If ſhe and Sir <hi>Kenelme</hi> go on with the <hi>Match,</hi> then
+let the <hi>Saints</hi> beware; for, I beleeeve <hi>Gog</hi> and <hi>Ma<g ref="char:EOLhyphen"/>gog</hi>
+will come of the <hi>Progeny.</hi>
+            </p>
+            <p>But what thinke you of my Lady Marchioneſſe
+of <hi>Wincheſter</hi> and Colonell <hi>Warren?</hi> Though my
+<hi>Lord</hi> be her Husband, yet the Colonell is the man.
+Though my <hi>Lord</hi> have a good <hi>Bable</hi> by deſcent, and
+may play well, yet the Col. hits the <hi>blot</hi> oftner in
+his <hi>Ladie's Tables.</hi> She is often ſick, and as often
+ſwels, and, by the opinion of all <hi>Doctors,</hi> no cure
+is like that in private with her Colonell.</p>
+            <p>
+               <hi>Boles</hi> was an able fellow too once, before he came
+to be my Lady of <hi>Bath's</hi> Gentleman uſher: But
+you may gueſſe how the VVorld goes with him
+now; for he <hi>dwindles</hi> every day, and (ſome ſay)
+the <hi>Calves</hi> of his legs are left in his Ladies Belly;
+ſo that when my <hi>Lord</hi> expected a Son, God knows
+it proved a <hi>Moon Calfe;</hi> and had it grown up to
+have <hi>horns,</hi> my <hi>Lord</hi> might then have hoped it was
+of his own begetting.</p>
+            <p>Poor <hi>Jack Young!</hi> my Lady <hi>Monmouth</hi> bites hard
+too; for, ſhe hath drawn him ſo low, that he
+will never make <hi>Mummy;</hi> and therefore in<g ref="char:EOLhyphen"/>tends
+to prefer him for a living <hi>Skeleton</hi> to <hi>Surgeon's</hi>
+hall, as a very neat Subject for an <hi>Anatomy</hi> lecture.
+And indeed, it is high time he were ſome way
+diſpoſed of, for, his <hi>fore-man</hi> is ſo flag, and his
+hams ſo feeble, that my Lady is conſtrained ſtill to
+<pb n="12" facs="tcp:115302:8"/>
+cry out [<hi>Thy finger againe,</hi> Jack.]</p>
+            <p>I beleeve the <hi>Parſon</hi> too is puzled, to interpret
+the barrenneſſe of my Lady <hi>Stanhope,</hi> ſhe gives
+him the opening of many a hard <hi>Text,</hi> ſo that he
+will have much ado to reſolve the <hi>Tithe,</hi> of her
+<hi>Doctrine</hi> into <hi>Uſe</hi> and <hi>Applycation;</hi> for (tis known)
+ſhe is much given to <hi>Hunting,</hi> and hath run down
+a whole <hi>kennell</hi> at a time for recreation. Her mouth
+is (like <hi>mopſaes) O Heavenly wide,</hi> ſo that her <hi>Taile</hi>
+being of the ſame ſize in dimenſion, 'tis poſſible
+<hi>Stamford</hi> may paſſe throngh her, booted and ſpur'd
+to ſeek <hi>new fortunes</hi> in <hi>America.</hi>
+            </p>
+            <p>There is another notable <hi>Lady</hi> too, newly come
+out of <hi>France,</hi> and knowes all the feats of that coun<g ref="char:EOLhyphen"/>try,
+and is now ſet up in <hi>England,</hi> by name my
+Lady <hi>Mountague;</hi> all ſpirit of <hi>Sulphur:</hi> for, ſhe
+takes fire immediatly, and evaporates without con<g ref="char:EOLhyphen"/>ception;
+ſo that we muſt leave her to the skill of
+<hi>Ben. Weſton,</hi> to provide a Son for my Lord <hi>Monta<g ref="char:EOLhyphen"/>gue,</hi>
+as the <hi>Prince Elector</hi> did for my Lord <hi>Moul<g ref="char:EOLhyphen"/>grave.</hi>
+And if ever <hi>Ben.</hi> mean to effect it, let him
+keepher <hi>Ladiſhip</hi> only to himſelfe, and recall her
+<hi>Ambaſſadors,</hi> which lie <hi>Leiger</hi> for <hi>ſtrong backs,</hi> in
+City and Country.</p>
+            <p>She trades not ſo openly, but others are as cloſe;
+yet <hi>Murther</hi> will out: for, 'tis known well enough
+(though carried in private) how often Mr. <hi>Villiers</hi>
+hath come the <hi>Back way</hi> over a wall, to the fore way
+of my Lady <hi>Savile,</hi> alias <hi>Suſſex;</hi> and ſhe uſually
+helps him down in her armes, for feare of a ſtrai<g ref="char:EOLhyphen"/>ning.</p>
+            <p>
+               <pb n="13" facs="tcp:115302:8"/>
+Newes, newes, The Dutcheſſe hath a Son and
+heir, in the abſence of Prince <hi>Rupert.</hi> But—&amp;c.</p>
+            <p>If Madam <hi>Newport</hi> ſhould not be link't with
+theſe <hi>Ladyes,</hi> the <hi>chain</hi> would never hold; for, ſhe
+is Siſter to the famous Mrs. <hi>Porter</hi> (who of late
+plaies the <hi>Macquerela</hi> in the behalf of her owne
+Son;) and to the more famous Lady <hi>Marlborough</hi>
+(whoſe Paint is her <hi>Pander.)</hi> This Lady <hi>Newport</hi>
+leads the Lord <hi>Bellaſis</hi> in one hand, and <hi>Iack Ruſ<g ref="char:EOLhyphen"/>ſell</hi>
+in the other, and cuts a kindnes ſo equally be-between
+them, that Sir <hi>Kenelm Digby</hi> needed not
+have come in to decide the controverſie. Yet ha<g ref="char:EOLhyphen"/>ving
+beat the <hi>Buſh</hi> ſo often, there's no reaſon but
+he ſhould catch the <hi>Bird,</hi> and theſe two <hi>Gentlemen,</hi>
+when he comes, be turned looſe to ruminate the
+Favor.</p>
+            <p>And that this <hi>Lady</hi> may not go without her fel<g ref="char:EOLhyphen"/>low,
+if you are <hi>coloured,</hi> my Lady <hi>Elizabeth Darcy,</hi>
+appeare as <hi>Stanhope,</hi> alias <hi>Cheſterfields</hi> Daughter.
+Take confidence, ſuch as your Siſter <hi>Stanhope</hi> did,
+when ſhe met <hi>Hatton Rich</hi> upon the ſtairs, whilſt
+her Husband (good man!) was making his <hi>Will.</hi>
+Manage your deſigne well; there is no feare but
+you may trail both Sir <hi>Andrew,</hi> and Mr. <hi>Glascock,</hi>
+as long as they can crawle, and you ſmile. Theſe
+are very tractable <hi>Gent.</hi> and hot-mettal'd; the har<g ref="char:EOLhyphen"/>der
+you ſtave them off, the fiercer they come on;
+the longer you hold them in play, the more will
+the <hi>prize</hi> be valued. This <hi>Madam</hi> is like a <hi>Politique
+Merchant,</hi> in our <hi>Commonwealth,</hi> and (if ſhe be
+<pb n="14" facs="tcp:115302:9"/>
+not taken off by Preferment) may chance to ſpoile
+the Trade of all <hi>Stallions</hi> in Penſion, by teaching
+the reſt of the Ladies how to prize their Commo<g ref="char:EOLhyphen"/>dities.</p>
+            <p>My right hand would forget it's cunning ſhould
+the example of all women be left out, my Lady
+<hi>Cullen,</hi> who in my Lord <hi>Riche's</hi> time was called
+my Lady <hi>Mary Cokaine,</hi> but varied her name
+when ſhe began to teach Souldi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs how to order
+the <hi>Pike.</hi> This <hi>ſilken-Granado</hi> hath blown up ma<g ref="char:EOLhyphen"/>ny
+a Garriſon; for ſhe ever <hi>fired well,</hi> wounded
+one <hi>Captain</hi> ſo that he lies in ſtill, fell furiouſly
+on many others; and ſhe hath one <hi>Trick,</hi> that if
+you will not charge her, ſhe'll charge you. Upon
+theſe tearms ſhe met with a <hi>Colonell,</hi> one <hi>Stam<g ref="char:EOLhyphen"/>ford,</hi>
+whom when ſhe had worn out one way as
+well as the other, ſhe <hi>caſhired</hi> him for want of <hi>pay,</hi>
+and took over his head <hi>George Porter,</hi> whoſe de<g ref="char:EOLhyphen"/>ſigne
+is to <hi>Levell</hi> her even with his owne principles.
+On the other ſide, ſhe, having ſmelt his <hi>Plot,</hi> be<g ref="char:EOLhyphen"/>gins
+to grow weary of him, and plies the <hi>Counter<g ref="char:EOLhyphen"/>mine,</hi>
+but knowes not how to admit another, be<g ref="char:EOLhyphen"/>cauſe
+his <hi>Mother</hi> and his <hi>Wife</hi> ſtand <hi>Sentinell</hi> at her
+elbow.—It is intended, the life of this <hi>Lady</hi> ſhall
+ere long come out in <hi>Folio.</hi>
+            </p>
+            <p>But 'tis an old <hi>Proverb,</hi> there can be no <hi>Play</hi> with<g ref="char:EOLhyphen"/>out
+a <hi>Foole</hi> in it. Alas poore Maſter <hi>Pembroke,</hi>
+who twelve months ſince was an <hi>Earl,</hi> but now
+being made a poore <hi>Commoner</hi> of <hi>England,</hi> hath
+rallied his <hi>forces,</hi> and finds it neceſſary to caſhire
+<pb n="15" facs="tcp:115302:9"/>
+my Lady <hi>May,</hi> my Lady <hi>Banbury,</hi> and my Lady
+<hi>Crompton,</hi> having been very angry with her, and
+deſired her to reſolve him of this Queſtion,<note n="*" place="margin">She dun'd him beyond reaſon for Money.</note> 
+               <hi>Whe<g ref="char:EOLhyphen"/>ther
+he ſhit Gold?</hi> This poor over-ridden <hi>Gentle<g ref="char:EOLhyphen"/>man</hi>
+lies now at <hi>Rack and Manger,</hi> with a Cham<g ref="char:EOLhyphen"/>bermaid
+of my Lady <hi>Herbert's.</hi>
+            </p>
+            <p>
+               <hi>'Zounds,</hi> we are now in a Godly Family; and
+they that are the only people in the world, that
+know to order <hi>Women:</hi> for, the <hi>Father</hi> keeps two
+wives and a Concubine, as priſoners. The Lord
+his ſon (a poore <hi>Commoner</hi> too) rid his hands of
+one wife, and keeps this very cloſe, though <hi>Jack
+Griffith</hi> be in <hi>France;</hi> and ſo doth <hi>James his</hi> too,
+though my Lord of <hi>Oxford</hi> be in <hi>Holland.</hi> As for
+<hi>Jack,</hi> with his <hi>Spider's ſhanks,</hi> his <hi>Miſtreſſe</hi> is not
+arived to fourteene yet, or elſe he would take the
+ſame courſe as his Brothers, for feare ſhe ſhould
+ſuck of the ſame <hi>Teat</hi> with her <hi>Mother.</hi>
+            </p>
+            <p>VVee cannot name my Lady <hi>Crompton</hi> too often.
+VVhen <hi>Tom. Temples</hi> ſtock could hold no longer,
+neither in <hi>Wit</hi> nor <hi>Money,</hi> ſhe laid him aſide like a
+ridiculous <hi>Foole,</hi> and jump't in with my Lord
+<hi>Molineux,</hi> who whipt up her Belly here in <hi>England,</hi>
+and then ſhe got a <hi>Paſſe</hi> to go to her husband in
+<hi>France,</hi> that he might father the <hi>Bantling.</hi> My
+<hi>Lord</hi> and ſhe are parted ſince, but how, it is not
+known; only we heare of great reſolutions againſt
+<hi>Teeming,</hi> profeſſing ſhee will venture no more for
+Children: but we fear ſhe muſt have one more to
+pleaſe my Lord <hi>Broncker.</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:115302:10"/>
+Heigh, now for the nine <hi>Worthies,</hi> who above
+all deſerve the <hi>Breeches,</hi> to ride aſtride to the <hi>De<g ref="char:EOLhyphen"/>vill.</hi>
+And to lead the <hi>Van,</hi> march couragious yong
+Madam <hi>Peterborough,</hi> whoſe Earl is a <hi>Wittoll,</hi> and
+her father was a <hi>cuckold,</hi> gramercy old <hi>Peterbo<g ref="char:EOLhyphen"/>rough.</hi>
+This Ladie makes nothing of 3. Gallons
+of <hi>Usquebagh</hi> to Mr. <hi>Staffords</hi> health, and whatſoe<g ref="char:EOLhyphen"/>ver
+the <hi>Gentleman</hi> lends her, his wife payes
+him again in the ſame <hi>coyn</hi> at home, according to
+my Ladies <hi>maxim,</hi> which ſayes,
+<q>
+                  <l>Shee's too much Phlegme, a husbands faults can
+ſmother;</l>
+                  <l>If he take one, tis fit you take another.</l>
+               </q>
+            </p>
+            <p>Next, enter Madam <hi>Peter,</hi> who was tried by the
+Prince <hi>Elector,</hi> and <hi>Harry Compton</hi> was his <hi>Taſter.</hi>
+This will neither ſettle Mr. <hi>Vowell's</hi> eyes, nor his
+Conſcience; for, he hath liquored her with many
+a <hi>Pot,</hi> and toſted her, and ſhe promiſes much in her
+<hi>cups.</hi> Beſides her faculty in drink, ſhe is good at
+all <hi>games,</hi> but eſpecially at cogging the <hi>Die,</hi> and
+the <hi>Cod-peece.</hi> [Though we cannot rank her Aunt
+(my Lady <hi>Mary Sheldon</hi>) among the <hi>Nine,</hi> yet it
+being pitty they ſhould be parted, ſhe may paſſe for
+an <hi>Appendix,</hi> being ſo faſt hung to my Lord <hi>Peter,</hi>
+that his <hi>Lady</hi> rambles without ſuſpition, and ſets
+down this for a <hi>maxim</hi> of our <hi>Commonweale;</hi>]</p>
+            <q>
+               <l>That <hi>Ladies</hi> when their <hi>Lords</hi> new loves do mind,</l>
+               <l>Should, in revenge, like <hi>Cats</hi> unto their kind.</l>
+            </q>
+            <p>'Twere pitty the <hi>Third</hi> ſhould be left out who
+ought to have been firſt in order. Shew as confi<g ref="char:EOLhyphen"/>dent,
+as you ſpeak, Mrs. <hi>Phil. Mohun,</hi> whoſe
+<pb n="17" facs="tcp:115302:10"/>
+               <hi>Rhetorick</hi> is <hi>Ribaldry,</hi> whoſe Element is <hi>Drinke,</hi>
+whoſe wit is in <hi>Baudery,</hi> and whoſe Beauty is bla<g ref="char:EOLhyphen"/>ſted
+with her own Breath, it being a damp that will
+kill a <hi>Spider.</hi> She ſwears with a <hi>bon-grace,</hi> makes
+<hi>offenſive</hi> and <hi>defenſive</hi> War; offenſive with <hi>Sher<g ref="char:EOLhyphen"/>wood,</hi>
+whoſe Lordſhip is an Aſſe, <hi>defenſive</hi> with
+<hi>Lenthall,</hi> whoſe courage is wit. This <hi>Lady</hi> will be
+ſure to match the man, if ſhe knows the length of
+his weapon. She is often purged, but vowes <hi>drink
+is the best Phyſick,</hi> and delivers this <hi>maxim;</hi>
+            </p>
+            <q>
+               <l>If any thing make women more divine</l>
+               <l>Than men, it muſt be quick and mighty wine.</l>
+            </q>
+            <p>Make room for the <hi>Fourth,</hi> (with the new-elect<g ref="char:EOLhyphen"/>ed
+Colonel <hi>Corbet)</hi> by name Miſtris <hi>Harris,</hi> ſiſter
+to the forementioned <hi>Lady,</hi> who neither in <hi>quanti<g ref="char:EOLhyphen"/>ty,
+quality, action, Paſſion,</hi> nor any other <hi>Predica<g ref="char:EOLhyphen"/>ment,</hi>
+is any whit leſſe remarkable. She hath lived
+theſe 30. years in the ſame extremes that the reſt
+of her <hi>Siſters</hi> now begin with. <hi>Tom. Temple,</hi> had
+never been arreſted for the 200 l. if he could have
+plied her <hi>buſines</hi> in earneſt, as well as laugh at his
+own <hi>Jeſts,</hi> Let old gouty <hi>Aſh</hi> of the Parliament
+take heed; for, that in the <hi>noſe</hi> is not ſo eaſily
+cured as that in the <hi>Toe,</hi> and the Cavalier <hi>Corbet,</hi> &amp;
+his Miſtreſſe may chance to make him croſſe <hi>Pothe<g ref="char:EOLhyphen"/>caries</hi>
+Bills, and <hi>baudy reckonings,</hi> inſtead of the <hi>ac<g ref="char:EOLhyphen"/>compts</hi>
+of the Kingdom. For, after a full <hi>beer-glaſſe,</hi>
+ſhe ſet down this too for a <hi>Maxim.</hi>
+            </p>
+            <q>
+               <l>The <hi>Members</hi> ought, now <hi>Cavaliers</hi> are poore,</l>
+               <l>If they will ſhare a <hi>Miſtreſſe,</hi> pay the <hi>ſcore.</hi>
+               </l>
+            </q>
+            <p>
+               <pb n="18" facs="tcp:115302:11"/>
+The third of the <hi>Siſters</hi> makes up the <hi>fifth</hi> of our
+<hi>VVorthies.</hi> Enter Miſtris <hi>Cambell,</hi> with a <hi>piſſ-pot</hi> on
+her head, a <hi>pipe</hi> in her mouth, &amp; a <hi>pintle</hi> in her Tail.
+<hi>Aſh</hi> runs through this Family, as his brother-commoner
+<hi>Howard</hi> (known heretofore by the name
+of Lord <hi>Howard)</hi> runs through the Family of the
+<hi>Murray's,</hi> and hath made moſt of their Iſſue free
+<hi>Deniſons,</hi> being more <hi>Engliſh</hi> then <hi>Scotiſh.</hi> We
+underſtand by Maſter <hi>Cook's</hi> books at the <hi>Bear</hi> at the
+<hi>Bridg-foot</hi> (who muſt needs be an exact accomp<g ref="char:EOLhyphen"/>tant,
+having been a <hi>Committee-man)</hi> that from
+<hi>Midſummer</hi> to <hi>Michaelmas,</hi> 100 pound ſterl. hath
+been beſtowed by Maſter <hi>Aſh</hi> upon this <hi>Lady,</hi> in
+<hi>VVine</hi> and <hi>Tobacco,</hi> to cheriſh her in the mainte<g ref="char:EOLhyphen"/>nance
+of her moſt rare <hi>Maxims;</hi> of which the
+chiefe is,
+<q>
+                  <l>She that with pure <hi>Tobacco</hi> will not prime</l>
+                  <l>Her Noſe, can be no Lady of the time.</l>
+               </q>
+            </p>
+            <p>Now for a <hi>Worthy</hi> in good earneſt, my Lady
+<hi>Wildgooſe</hi> (alias <hi>Velledicus,</hi> alias Miſtris <hi>Salkeld)</hi>
+who reckons continency either to <hi>husband</hi> or <hi>Ser<g ref="char:EOLhyphen"/>vant,</hi>
+the worſt of the ſeven <hi>Deadly Sins;</hi> having
+lately reſolved to try all that will try her, though
+ſhe paſs the moſt <hi>fiery tryall.</hi> Many a ſad journey
+hath ſhe made; but of late two into <hi>Scotland,</hi> to
+fit her <hi>Engliſh</hi> meaſure, according to the <hi>Italian</hi>
+with S. <hi>Bernard Gaſcoign.</hi> She finds VVine of a rare
+quality; for it ſaves the charge of <hi>Vermilion</hi> for
+her <hi>Beake,</hi> being at great expence upon her cheeks.
+This Lady playes as well at <hi>Beſt</hi> as the <hi>Beaſt;</hi> drinks
+<pb n="19" facs="tcp:115302:11"/>
+well; ſwears enough for ſix of the nine, and hath
+been often a Caterwauling with Sir <hi>Iohn Morley.</hi>
+Her <hi>Maxim</hi> is.</p>
+            <q>
+               <l>'Tis not enough that <hi>Ladies</hi> drink, whiff, whore,</l>
+               <l>Except they ſwear <hi>God-dammees</hi> by the ſcore.</l>
+            </q>
+            <p>And now ſince the <hi>widdowes</hi> weare the <hi>buſkins,</hi>
+let them tread the ſtage boldly; and ſo enter two
+more of our <hi>Worthies</hi> at once, <hi>Aunt</hi> and <hi>Niece,</hi> my
+Presbyterian Lady <hi>Stapleton</hi> and my Lady <hi>Campi<g ref="char:EOLhyphen"/>on</hi>
+the Cavalier, the one Being drunk at the receit
+of the newes of her husband's death out of <hi>France;</hi>
+the other very jolly, with Maſter <hi>Howard</hi> of <hi>Bark<g ref="char:EOLhyphen"/>ſhire</hi>
+in her arms, at the newes of her Husbands
+death at <hi>Colcheſter;</hi> and ſince that, ſhe hath a <hi>Rub<g ref="char:EOLhyphen"/>bers</hi>
+every weeke with no leſſe then five, for varie<g ref="char:EOLhyphen"/>ty.
+The controverſie betwixt theſe two is, who
+can drink moſt, and then they quarrell for the con<g ref="char:EOLhyphen"/>queſt.
+<hi>Tom Temple</hi> and Col. <hi>Iephſon</hi> are their <hi>Se<g ref="char:EOLhyphen"/>conds;</hi>
+the firſt of whom loſt his <hi>haire</hi> and the o<g ref="char:EOLhyphen"/>ther
+had like to have loſt his <hi>one eie,</hi> in deciding the
+buſines. But what care theſe Ladies? Their <hi>maxim</hi> is,
+<q>
+                  <l>She is no <hi>Miſtreſſe</hi> though ſhe rants, drinks, Swears,</l>
+                  <l>That doth not ſet her <hi>Servants</hi> by the ears.</l>
+               </q>
+            </p>
+            <p>To bring up the <hi>Rear</hi> of the <hi>nine,</hi> enter the incom<g ref="char:EOLhyphen"/>parable
+Lady of an old <hi>Low-country</hi> Colonell, by
+name <hi>Cromwell;</hi> who hath run through moſt of
+the Regiment, both Officers and Souldiers. Since
+her coming to <hi>England,</hi> ſhe hath traded never a jot
+the leſſe in the <hi>low-countries;</hi> loves Wine, and of
+all Wine, <hi>Sack</hi> in Glaſſes; and of all Glaſſes,
+<hi>Beer-Glaſſes.</hi> She keeps a <hi>free Port</hi> for all <hi>Mer<g ref="char:EOLhyphen"/>chants,</hi>
+               <pb n="20" facs="tcp:115302:12"/>
+and trucks with all Languages and Nati<g ref="char:EOLhyphen"/>ons.
+Shee is controller of the <hi>Club</hi> among the La<g ref="char:EOLhyphen"/>dies;
+is excellent at the beginning of h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alths, <hi>viz.
+To the beſt—in Chriſtendome,</hi> and at the
+ending of ſtories, for, ſhe fits them all with a <hi>baudy
+Comment.</hi> She is Honored with the title of <hi>Lady-Governeſſe</hi>
+to the three illuſtrious <hi>Siſter VVorthies,</hi>
+Miſtris <hi>Mohun,</hi> Miſtris <hi>Harris,</hi> and Miſtris <hi>Cam<g ref="char:EOLhyphen"/>bell,</hi>
+her chiefe deſigne is to reconcile and compoſe
+all differences betwixt the two former, and then
+when theſe foure are together, there will be a ſoci<g ref="char:EOLhyphen"/>ety
+for the<note n="*" place="margin">The De<g ref="char:EOLhyphen"/>vil Ta<g ref="char:EOLhyphen"/>vern.</note> DEVILL, their <hi>Maxim</hi> being this;</p>
+            <q>
+               <l>They're fooles that will not theſe examples follow,</l>
+               <l>And once a week meet at the great <hi>APOLLO.</hi>
+               </l>
+            </q>
+            <p>If any of theſe <hi>Ladies</hi> want a <hi>pouder'd and patch't
+old fool</hi> to wait upon Them, let them ſend to my L.
+<hi>North,</hi> whoſe Coach and himſelf will be ready at
+a Call; eſpecially if it be upon a viſit to my Lady
+<hi>Kent's</hi> about ſupper time, where they are all upon
+<hi>Free-Quarter.</hi>
+            </p>
+            <p>By way of concluſion we are in the laſt place to
+give notice of certain <hi>Ladies,</hi> called <hi>Courſers,</hi> whoſe
+Recreation lies very much upon the <hi>New Exchange</hi>
+about 6. a clock at night; where you may fit your
+ſelf with ware of all ſorts and ſizes. But take heed
+of my Lady <hi>Sandy's;</hi> for, ſhe ſweeps the <hi>Exchange,</hi>
+like a Chain'd Bullet, with Mr. <hi>Howard</hi> in one hand
+and <hi>Fitz Iames</hi> in the other.</p>
+            <list>
+               <item>There is my Lady <hi>Katherine Scot</hi> with Mr. <hi>Salkeld.</hi>
+               </item>
+               <item>The new widdow <hi>Sandys</hi> with Col. <hi>Bredridge.</hi>
+               </item>
+               <item>The Lady <hi>Montague</hi> with Mr. <hi>Brown.</hi>
+               </item>
+               <item>
+                  <pb n="21" facs="tcp:115302:12"/>
+The 2. Mrs. <hi>Skipwiths,</hi> with Sir <hi>Iohn Morley.</hi>
+               </item>
+               <item>Mrs. <hi>Wintour</hi> in contemplation of <hi>David Walter.</hi>
+               </item>
+               <item>
+                  <hi>Mrs.</hi> Kirk <hi>with Col.</hi> Rainsford.</item>
+               <item>The Lady <hi>Mary Sheldon</hi> with Mr. <hi>Vowell.</hi>
+               </item>
+               <item>
+                  <hi>Mrs.</hi> Luſon <hi>and Sir</hi> Thomas Sandys.</item>
+               <item>The Lord <hi>Blaney</hi> and Mrs. <hi>Roper,</hi>
+               </item>
+               <item>The Lord <hi>Middleſex</hi> and the Lady <hi>Thimblebee.</hi>
+               </item>
+               <item>
+                  <hi>Mrs.</hi> Wild <hi>and Mr.</hi> Touchet.</item>
+               <item>
+                  <hi>The Lady</hi> Crompton <hi>and Mr.</hi> Cranfield.</item>
+               <item>
+                  <hi>Mrs.</hi> Wenman <hi>and my Lord</hi> Denbigh.</item>
+               <item>
+                  <hi>The Lady</hi> Cary <hi>and</hi> Dudly Sonds.</item>
+               <item>
+                  <hi>Mrs.</hi> Crew <hi>and Mr.</hi> Broncker.</item>
+               <item>
+                  <hi>Mrs.</hi> Finch <hi>for a</hi> VVhiffler.</item>
+               <item>Mrs. <hi>Jones</hi> and <hi>George Colt,</hi> and ſometimes Mr.
+<hi>Coghill.</hi>
+               </item>
+               <item>Mrs. <hi>Kingſmell</hi> all alone.</item>
+               <item>The <hi>Corbet</hi> Family with who they can get.</item>
+               <item>The Lady <hi>Fulgeum</hi> with the Lord <hi>Northampton.</hi>
+               </item>
+               <item>The Lady <hi>Peter</hi> and the Lord <hi>North.</hi>
+               </item>
+               <item>The Lady <hi>Downs</hi> and the Lord <hi>Sherwood.</hi>
+               </item>
+               <item>The 7. Siſters of the Lord <hi>Sandys,</hi> and the foure
+Miſtris <hi>Somes's,</hi> very fleet <hi>Courſers.</hi>
+               </item>
+               <item>The Lady <hi>Norton</hi> and Mr. <hi>Edwards.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Sir</hi> Thomas Longevile <hi>hopping before twenty wo<g ref="char:EOLhyphen"/>men,
+and the Lord</hi> VVindſor, Cum multis aliis, quas
+nunc perſcribere longum eſt.</p>
+            <p>Theſe, and many more you may buy; but beware
+you repent not your Bargain. In our next <hi>Annals</hi>
+(if the humor hold) we will give you a more parti<g ref="char:EOLhyphen"/>cular
+Relation. In the mean time,
+<q>
+                  <l>God bleſs the <hi>Authors</hi> from the Blades that ſwagger;</l>
+                  <l>From Poyſon, Piſtoll, from the ſword and dagger.</l>
+               </q>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="22" facs="tcp:115302:13"/>
+            <head>A Poſt-ſcript to the intelligent Readers.</head>
+            <bibl>Martialis lib. 6. Epig. 45.</bibl>
+            <q>
+               <l>Luſiſtis, ſatis eſt; laſcivi cedite Cunni:</l>
+               <l>Permiſſa eſt vobis non niſi caſta Venus.</l>
+            </q>
+            <bibl>Lib. 5. Epig. 6<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</bibl>
+            <q>
+               <l>Criſpulus iſte quis eſt, uxori ſemper adhaeret</l>
+               <l>Qui <hi>Mariane,</hi> tuae? Criſpulus iſte quis eſt?</l>
+               <l>Neſcio quid dominae teneram qui garrit inaurem,</l>
+               <l>Et Sellam cubito dexteriore premit?</l>
+               <l>Nil mihi reſpondes? uxoris res agit, inquis,</l>
+               <l>Iſte meae.—</l>
+               <l>Res uxoris agit? res nullas Criſpulus iſte:</l>
+               <l>Res non uxoris, res agit iſte tuas.</l>
+            </q>
+            <bibl>Lib. 7. Epig. 9..ad Olum.</bibl>
+            <q>
+               <l>Centenis futuit <hi>Matho</hi> millibus: <hi>Ole,</hi> quid ad te?</l>
+               <l>Illud diſſimulas ad te quod pertinet, <hi>Ole,</hi>
+               </l>
+               <l>Quod<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> magis curae convenit eſſe tuae.</l>
+               <l>Uxor Maecha tibi eſt: hoc, ad te pertinet. <hi>Ole.</hi>
+               </l>
+               <l>Sed quid agas, ad me pertinet, <hi>Ole,</hi> nihil.</l>
+            </q>
+            <bibl>Lib. 9. Epig. 42.</bibl>
+            <q>
+               <l>Pontice, quòd nunquàm futuis, ſed pellice laevâ</l>
+               <l>Uteris, &amp; veneri ſervit amica manus:</l>
+               <l>Hoc nihil eſſe putas? ſcelus eſt, mihi crede, ſed ingens,</l>
+               <l>Quantum vix animo concipis ipſe tuo.</l>
+               <l>Ipſam, crede mihi, naturam dicere rerum;</l>
+               <l>I ſtud quod digitis, <hi>Pontice,</hi> perdis, homo eſt.</l>
+            </q>
+            <bibl>Lib. 11. Epig. 23.</bibl>
+            <q>
+               <l>Diviſit natura mares; pars una puellis,</l>
+               <l>Una viris genita eſt: ut ere parte tuâ.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
